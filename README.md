@@ -1,3 +1,5 @@
+Update - Forked to review - Possible dev for Ubunutu 20.04 with new autoinstaller structure
+
 This will create a fully automatic installation of Ubuntu Desktop versions so you dont need a keyboard, mouse or a monitor to get it installed and configured. Tested on 17.10 and all previous releases under it.
 
 Scripts are attached of my basic configuration I used that worked. Just change the passwords under root and user account and if you use /dev/sda it will work straight out of the box
